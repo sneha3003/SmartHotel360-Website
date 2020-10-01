@@ -1,4 +1,4 @@
-# **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
+# ** This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository. **
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
 
@@ -97,7 +97,7 @@ In order to run the Website and the Function locally you will need to setup the 
 
 1. Right click on the solution and then click on properties.
 1. Select the option `Multiple startup projects`.
-1. Select option `Start` in the `Action` column.
+1. Select option `Start` in the `Action column.
 
 ![](Documents/Images/multiple-startup.png)
 
